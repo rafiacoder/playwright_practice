@@ -1,6 +1,6 @@
 # 🎭 Playwright Practice -
 
-This repository contains my learning and practice progress with **Playwright (Python)** for webscraping , bot detection ,automation ,data extraction etc.
+This repository contains my learning and practice progress with **Playwright (Python)** for webscraping , bot detection ,automation ,data extraction,pagination etc.
 
 ---
 
